@@ -1,4 +1,4 @@
-# model training code
+# training & testing code
 
 # Import necessary libraries
 import pandas as pd
